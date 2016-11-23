@@ -1,2 +1,2 @@
 # hello-world
-for education purposes only
+Hello! I'm new on GitHub, it's a training attempt.)
